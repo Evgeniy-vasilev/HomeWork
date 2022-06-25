@@ -1,0 +1,15 @@
+D:\C#\Homework\seminar_2\task2_4\bin\Debug\net6.0\task2_4.exe
+D:\C#\Homework\seminar_2\task2_4\bin\Debug\net6.0\task2_4.deps.json
+D:\C#\Homework\seminar_2\task2_4\bin\Debug\net6.0\task2_4.runtimeconfig.json
+D:\C#\Homework\seminar_2\task2_4\bin\Debug\net6.0\task2_4.dll
+D:\C#\Homework\seminar_2\task2_4\bin\Debug\net6.0\task2_4.pdb
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.csproj.AssemblyReference.cache
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.AssemblyInfoInputs.cache
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.AssemblyInfo.cs
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.csproj.CoreCompileInputs.cache
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.dll
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\refint\task2_4.dll
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.pdb
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\task2_4.genruntimeconfig.cache
+D:\C#\Homework\seminar_2\task2_4\obj\Debug\net6.0\ref\task2_4.dll

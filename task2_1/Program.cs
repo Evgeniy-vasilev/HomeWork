@@ -14,10 +14,9 @@ if (num > 99 && num <1000)
     int b = num / 10;
     b = b % 10;
     Console.WriteLine($"Вторая цифра числа: {b}");
-
 }
 else
 {
     Console.WriteLine("Введено неверное число");
 }
-
+            

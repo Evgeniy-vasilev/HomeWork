@@ -26,10 +26,9 @@ void PrintArray(int[] array)
 
 int[] array = GenerateArray();
 int sum = 0;
-for (int i = 0; i < array.Length; i++)
+for (int i = 0; i < array.Length; i += 2)
 {
     sum += array[i];
-    i++;
 }
 
 PrintArray(array);

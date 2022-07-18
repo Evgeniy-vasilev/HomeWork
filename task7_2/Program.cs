@@ -47,32 +47,23 @@ PrintArray(myArray);
 int row = Prompt("Введите номер строки: ");
 int column = Prompt("Введите номер столбца: ");
 
-if (row > rows || column > columns)
-{
-    System.Console.WriteLine("Такого числа в массиве нет");
-    return;
-}
-
 void FindValue(int[,] array, int row, int column)
 {
     for (int i = 0; i < array.GetLength(0); i++)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            if (array[i, j] == array[row - 1, column - 1])
+            if (row > rows || column > columns)
             {
-                System.Console.WriteLine($"Значение элемента на позиции ({row}, {column}) равно: {array[i, j]}");
-                return;
+                System.Console.WriteLine("Такого числа в массиве нет");
             }
+            else
+            {
+                System.Console.WriteLine($"Значение элемента на позиции ({row}, {column}) равно: {array[row - 1, column - 1]}");             
+            }
+            return;
         }
     }
-
 }
 
 FindValue(myArray, row, column);
-
-
-
-
-
-
